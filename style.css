@@ -1,0 +1,10 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: Arial, sans-serif; background: #f4f4f9; color: #333; line-height: 1.6; }
+header { background: #0077b6; color: white; padding: 30px; text-align: center; }
+nav { background: #023e8a; text-align: center; padding: 10px; }
+nav a { color: white; margin: 0 15px; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+section { padding: 20px; margin: 20px; background: white; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+h2 { color: #0077b6; margin-bottom: 10px; }
+.card { background: #e9ecef; padding: 15px; margin: 10px 0; border-radius: 8px; }
+footer { text-align: center; padding: 15px; background: #0077b6; color: white; margin-top: 20px; }
